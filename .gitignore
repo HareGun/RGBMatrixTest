@@ -1,0 +1,9 @@
+*.uvguix.*
+*.scvd
+JLinkLog.txt
+JLinkSettings.ini
+Objects
+Listings
+__Previews
+History
+DebugConfig
